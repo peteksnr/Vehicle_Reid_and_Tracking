@@ -102,7 +102,7 @@ Before running training or evaluation:
 	•	DeepSORT for multi-object tracking in videos
 
 ---
-##📌 Notes
+## 📌 Notes
 	•	GPU acceleration is used if available (falls back to CPU otherwise)
 	•	Training progress and metrics are displayed in the terminal
 	•	Model checkpoints are saved automatically
@@ -110,7 +110,7 @@ Before running training or evaluation:
 
 ---
 
-##🤝 Acknowledgments
+## 🤝 Acknowledgments
 	•	VeRi Dataset for vehicle re-identification research
 	•	PyTorch for the deep learning framework
 	•	DeepSORT for object tracking
