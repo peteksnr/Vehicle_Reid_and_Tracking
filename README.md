@@ -53,11 +53,11 @@ veri_data/              # Organized dataset for training/evaluation
 ### 1️⃣ Data Preparation
 ```bash
 python organize.py
-```
-This will:
-	•	Create train/, test/, and query/ directories
-	•	Organize images according to vehicle IDs
-	•	Prepare the dataset for training and evaluation
+```   
+This will:   
+	•	Create train/, test/, and query/ directories   
+	•	Organize images according to vehicle IDs   
+	•	Prepare the dataset for training and evaluation   
  
 ### 2️⃣ Train the Model
 ```bash
@@ -85,11 +85,11 @@ veri_data/
 ├── train/
 ├── test/
 └── query/
-```
-Before running training or evaluation:
-	1.	Place your VeRi dataset in the data/ directory
-	2.	Run organize.py to structure it properly
-	3.	The script will populate veri_data/
+```   
+Before running training or evaluation:   
+	1.	Place your VeRi dataset in the data/ directory   
+	2.	Run organize.py to structure it properly    
+	3.	The script will populate veri_data/   
 ---
 ## 🧠 Model Architecture
 	•	OSNet backbone for re-identification
